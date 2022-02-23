@@ -4,7 +4,7 @@
   </a>
 
 
- <a href="https://t.me/ConfusedKarma" style="text-decoration: none;">
+ <a href="https://t.me/refundisillegal" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
