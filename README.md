@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ConfusedKarma
+![banner](https://raw.githubusercontent.com/confusedkarma/confusedkarma/main/banner.png)
 
-![banner](https://raw.githubusercontent.com/ConfusedKarma/ConfusedKarma/main/banner.png)
-
+<h1 align="center">Hi 👋, I'm Singh</h1>
   </a>
 
 
